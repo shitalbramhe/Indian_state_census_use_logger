@@ -1,8 +1,8 @@
 """
 @Author: Shital Bajait
-@Date: 10-02-2022 11:12:00
+@Date: 18-02-2022 21:58:00
 @Last Modified by: Shital Bajait 
-@Last Modified time: 13-02-2022 13:20:00
+@Last Modified time: 18-02-2022 21:58:00
 @Title : To load StateCensusData and statecodeData to a new file
 """
 import csv
